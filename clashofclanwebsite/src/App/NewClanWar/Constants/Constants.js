@@ -1,0 +1,1 @@
+export const ClanWarsMaxParticipant=50;
